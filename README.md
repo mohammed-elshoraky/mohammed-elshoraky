@@ -11,11 +11,16 @@ I am a Fullstack .NET Developer focused on building scalable, maintainable, and 
 I enjoy designing backend architectures, optimizing databases, and building clean UI experiences using Blazor and web technologies.
 
 I have experience working on real-world systems such as:
+
 - 🅿️ Car entrance & exit management systems (QR / NFC / Mifare cards)
 - 🏢 HR & shift management systems (SQL Server-based)
-- 🎓 Moodle integrations and custom API development
+- 🏨 Hotel Management SaaS application
+- 🤖 AI Doctor Assistant SaaS application
+- 📦 Queue Management Systems
+- 🏬 Warehouse Management System (Assistant-based)
+- 🎓 Moodle integrations & custom API development
 - 🔌 RESTful APIs using ASP.NET Core
-- 🧩 Complex database systems and query optimization
+- 🧩 Complex database systems & advanced query optimization
 
 ---
 
